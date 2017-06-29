@@ -16,7 +16,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3",
         "illuminate/support": "~5.4.0",
         "illuminate/database": "~5.4.0",
         "illuminate/http": "~5.4.0",
